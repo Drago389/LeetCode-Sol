@@ -22,3 +22,6 @@ public:
         
     }
 };
+
+// Remember it by using the example of mother finding her children using chocolate 
+// and making them sit on the chairs of their respected names
