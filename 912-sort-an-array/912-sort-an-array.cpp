@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // USING MIN HEAP
     vector<int> sortArray(vector<int>& nums) {
         priority_queue<int,vector<int>,greater<int>> minHeap;
         
